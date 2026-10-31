@@ -36,8 +36,8 @@ export const PROFILE = {
     instagram: "",
   },
   cv: "/cv.pdf", // TODO: add the resume PDF here
-  photo: "/placeholder.png", // TODO: add Aditya's photo
-  aboutPhoto: "/placeholder.png", // TODO: add Aditya's about-page photo
+  photo: "", // TODO: add Aditya's photo
+  aboutPhoto: "", // TODO: add Aditya's about-page photo
 };
 
 export const NAV = [
